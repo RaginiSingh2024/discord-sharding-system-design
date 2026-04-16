@@ -6,7 +6,7 @@
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-red?logo=streamlit&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google%20Colab-Compatible-orange?logo=googlecolab&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
+ 
 ---
 
 ## 🎯 What This Project Does
